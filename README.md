@@ -28,3 +28,4 @@ The system utilizes a discrete PID controller, allowing real-time adjustment of 
 ![](/images/system1.jpg)
 
 ## Contributing
+Whether you're interested in adapting the system for use with other microprocessors or in developing a graphical interface that allows users to not only visualize real-time graphs but also change all PID parameters interactively, your input is valuable. If you have ideas, code enhancements, or want to help with these improvements, please feel free to fork the repository, make your changes, and submit a pull request. For more details on contributing, check out our contributing guidelines.
