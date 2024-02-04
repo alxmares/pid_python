@@ -8,7 +8,7 @@ This project aims to develop a PID control system to maintain the air temperatur
 ## Control Method
 The system utilizes a discrete PID controller, allowing real-time adjustment of Kp, Ki, and Kd values via potentiometers displayed on an LCD
 
-![](/images/system1.jpg)
+![](/images/system2.jpg)
 
 ## Hardware Requirements
 * Arduino Nano
@@ -22,8 +22,9 @@ The system utilizes a discrete PID controller, allowing real-time adjustment of 
 * 12v 0.98mA Fan
 * 12v 5A Power Supply
   
-## System Desing
+## Electronic desing
 
-## Software Requirements
+![](/images/diagram.jpg)
+![](/images/system1.jpg)
 
 ## Contributing
